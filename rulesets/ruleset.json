@@ -1,0 +1,17 @@
+{
+    "name": "Technical Management Ruleset",
+    "rules": [
+        {                    
+            "id": "AA0214",                    
+            "action": "None"
+        },
+        {                    
+            "id": "AA0232",                    
+            "action": "None"
+        },
+        {                    
+            "id": "PTE0012",                    
+            "action": "None"
+        }            
+    ]
+}

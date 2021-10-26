@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="nl-NL" original="AL Code Experiments">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1853237406 - Field 1690626450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Crop X</source>
+          <target state="translated">Bijsnijden X</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Crop X - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 1052929833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Crop Y</source>
+          <target state="translated">Bijsnijden Y</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Crop Y - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Omschrijving</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target state="translated">Volgnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 3581037481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Height</source>
+          <target state="translated">Hoogte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Height - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 3868595262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Base64</source>
+          <target state="translated">Bron-Base64</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Source Base64 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 3138938202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Format</source>
+          <target state="translated">Bronformaat</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Source Format - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 4292099525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Format Text</source>
+          <target state="translated">Bronformaat (tekst)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Source Format Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 4233631958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Height</source>
+          <target state="translated">Bronhoogte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Source Height - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 3982660982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Image</source>
+          <target state="translated">Bronafbeelding</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Source Image - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 3147621061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Width</source>
+          <target state="translated">Bronbreedte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Source Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 1946899426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Base64</source>
+          <target state="translated">Doel-Base64</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Target Base64 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 2490515622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Format</source>
+          <target state="translated">Doelformaat</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Target Format - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 1578807481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Format Text</source>
+          <target state="translated">Doelformaat (tekst)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Target Format Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 214254474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Height</source>
+          <target state="translated">Doelhoogte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Target Height - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 948810938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Image</source>
+          <target state="translated">Doelafbeelding</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Target Image - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 189049161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Width</source>
+          <target state="translated">Doelbreedte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Target Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853237406 - Field 613790498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Width</source>
+          <target state="translated">Breedte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Image Library CPTE - Field Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1544888981 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Substitution</source>
+          <target state="translated">Rapportvervanging</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Substitution CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1544888981 - Field 269003312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Report Caption</source>
+          <target state="translated">Nieuw rapport caption</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Substitution CPTE - Field New Report Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1544888981 - Field 2853618745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Report ID</source>
+          <target state="translated">Nieuw rapport-id</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Substitution CPTE - Field New Report ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1544888981 - Field 2512588867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Report Caption</source>
+          <target state="translated">Origineel rapport caption</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Substitution CPTE - Field Original Report Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1544888981 - Field 4087756550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Report ID</source>
+          <target state="translated">Origineel rapport-id</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report Substitution CPTE - Field Original Report ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001544520 - NamedType 356312786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Files (*.*)|*.*</source>
+          <target state="translated">Alle bestanden (*.*)|*.*</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Image Library Helper CPTE - NamedType AllFilesLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001544520 - NamedType 2865259996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the image?</source>
+          <target state="translated">Weet u zeker dat u de afbeelding wilt verwijderen?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Image Library Helper CPTE - NamedType DeleteImageQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001544520 - NamedType 143641881" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <target state="translated">Importeren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Image Library Helper CPTE - NamedType ImportLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001544520 - NamedType 3204570719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No image found.</source>
+          <target state="translated">Geen afbeelding gevonden</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Image Library Helper CPTE - NamedType NoImageFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001544520 - NamedType 1398852855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing image will be replaced. Do you want to continue?</source>
+          <target state="translated">De bestaande afbeelding zal worden vervangen. Weet u zeker dat u door wilt gaan?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Image Library Helper CPTE - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001544520 - NamedType 16173077" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target</source>
+          <target state="translated">Doel</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Image Library Helper CPTE - NamedType TargetLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Source,Functions,Target</source>
+          <target state="translated">Nieuw,Proces,Rapport,Bron,Functies,Doel</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image Library Card</source>
+          <target state="translated">Afbeeldingenbibliotheek-kaart</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 3581507009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function Parameters</source>
+          <target state="translated">Functieparameters</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control FunctionParametersTab - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 1690626450 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the X coordinate of the rectangle.</source>
+          <target state="translated">Hiermee wordt de x-coordinaat van de rechthoek opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Crop X - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 1052929833 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Y coordinate of the rectangle.</source>
+          <target state="translated">Hiermee wordt de y-coordinaat van de rechthoek opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Crop Y - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 3581037481 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the height of the rectangle.</source>
+          <target state="translated">Hiermee wordt de hoogte van de rechthoek opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Height - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 613790498 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the width of the rectangle.</source>
+          <target state="translated">Hiermee wordt de breedte van de rechthoek opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Width - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 2423936635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Algemeen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control GeneralTab - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description for the image.</source>
+          <target state="translated">Hiermee wordt een omschrijving opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies an entry number.</source>
+          <target state="translated">Hiermee wordt een volgnummer opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 1744492734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <target state="translated">Bron</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control SourceTab - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 3868595262 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the Base64 version of the source image is available.</source>
+          <target state="translated">Hiermee wordt opgegeven of de Base64-versie van de bronafbeelding beschikbaar is.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Source Base64 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 3868595262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Base64 Available</source>
+          <target state="translated">Bron-Base64 beschikbaar</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Source Base64 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 3138938202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the format of the source image.</source>
+          <target state="translated">Hiermee wordt het formaat van de bronafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Source Format - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 4292099525 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the text representation of the format of the source image.</source>
+          <target state="translated">Hiermee wordt de tekstrepresentatie van het formaat van de bronafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Source Format Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 4233631958 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the height of the source image.</source>
+          <target state="translated">Hiermee wordt de hoogte van de bronafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Source Height - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 3147621061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the width of the source image.</source>
+          <target state="translated">Hiermee wordt de breedte van de bronafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Source Width - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 48869538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target</source>
+          <target state="translated">Doel</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control TargetTab - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 1946899426 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the Base64 version of the target image is available.</source>
+          <target state="translated">Hiermee wordt opgegeven of de Base64-versie van de doelafbeelding beschikbaar is.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Target Base64 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 1946899426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Base64 Available</source>
+          <target state="translated">Doel-Base64 beschikbaar</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Target Base64 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 2490515622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the format of the target image.</source>
+          <target state="translated">Hiermee wordt het formaat van de doelafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Target Format - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 1578807481 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the text representation of the format of the target image.</source>
+          <target state="translated">Hiermee wordt de tekstrepresentatie van het formaat van de doelafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Target Format Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 214254474 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the height of the target image.</source>
+          <target state="translated">Hiermee wordt de hoogte van de doelafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Target Height - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Control 189049161 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the width of the target image.</source>
+          <target state="translated">Hiermee wordt de breedte van de doelafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Control Target Width - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 1628711560 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functions</source>
+          <target state="translated">Functies</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action FunctionsActions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 278120139 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Crops the image according to the function parameters.</source>
+          <target state="translated">Snijdt de afbeelding bij conform de functieparameters.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action CropImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 278120139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Crop Image</source>
+          <target state="translated">Afbeelding bijsnijden</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action CropImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 4293517319 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resizes the image according to the function parameters.</source>
+          <target state="translated">Schaalt de afbeelding conform de functieparameters.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ResizeImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 4293517319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resize Image</source>
+          <target state="translated">Afbeelding schalen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ResizeImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 1002420131 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print the image library.</source>
+          <target state="translated">Druk de afbeeldingenbibliotheek af.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action Print - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target state="translated">Afdrukken</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 302820460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <target state="translated">Bron</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action SourceActions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 2331396733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deletes the current source image.</source>
+          <target state="translated">Verwijdert de huidige bronafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action DeleteSourceImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 2331396733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Source Image</source>
+          <target state="translated">Bronafbeelding verwijderen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action DeleteSourceImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 2210219019 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exports the base64 version of the source image .</source>
+          <target state="translated">Exporteert de base64-versie van de bronafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ExportSourceImageBase64 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 2210219019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Source Base64</source>
+          <target state="translated">Bron-Base64 exporteren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ExportSourceImageBase64 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 3142174166 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exports the current source image.</source>
+          <target state="translated">Exporteert de huidige bronafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ExportSourceImageMedia - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 3142174166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Source Image</source>
+          <target state="translated">Bronafbeelding exporteren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ExportSourceImageMedia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 1106155553 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Uploads an image as source image.</source>
+          <target state="translated">Uploadt een afbeelding als bronafbeelding</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ImportSourceImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 1106155553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Source Image</source>
+          <target state="translated">Bronbestand importeren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ImportSourceImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 1933659136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target</source>
+          <target state="translated">Doel</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action TargetActions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 475975953 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deletes the current target image.</source>
+          <target state="translated">Verwijdert de huidige doelafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action DeleteTargetImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 475975953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Target Image</source>
+          <target state="translated">Doelafbeelding verwijderen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action DeleteTargetImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 1284907278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exports the base64 version of the current target image .</source>
+          <target state="translated">Exporteert de base64-versie van de doelafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ExportTargetBase64 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 1284907278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Target Base64</source>
+          <target state="translated">Doel-Base64 exporteren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ExportTargetBase64 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 2507505382 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exports the current target image.</source>
+          <target state="translated">Exporteert de huidige doelafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ExportTargetImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2834377578 - Action 2507505382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Target Image</source>
+          <target state="translated">Doelafbeelding exporteren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library Card CPTE - Action ExportTargetImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1677976665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Images</source>
+          <target state="translated">Afbeeldingen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library FactBox CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1677976665 - Control 2397723431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <target state="translated">Bron</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library FactBox CPTE - Control Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1677976665 - Control 3982660982 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source image.</source>
+          <target state="translated">Hiermee wordt de bronafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library FactBox CPTE - Control Source Image - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1677976665 - Control 1125457875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target</source>
+          <target state="translated">Doel</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library FactBox CPTE - Control Target - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1677976665 - Control 948810938 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the target image.</source>
+          <target state="translated">Hiermee wordt de doelafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library FactBox CPTE - Control Target Image - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Source,Functions,Target</source>
+          <target state="translated">Nieuw,Proces,Rapport,Bron,Functies,Doel</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image Library</source>
+          <target state="translated">Afbeeldingenbibliotheek</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image Library List</source>
+          <target state="translated">Afbeeldingenbibliotheek-lijst</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description for the image.</source>
+          <target state="translated">Hiermee wordt een omschrijving opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies an entry number.</source>
+          <target state="translated">Hiermee wordt een volgnummer opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 3868595262 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the Base64 version of the source image is available.</source>
+          <target state="translated">Hiermee wordt opgegeven of de Base64-versie van de bronafbeelding beschikbaar is.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Source Base64 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 3868595262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Base64 Available</source>
+          <target state="translated">Bron-Base64 beschikbaar</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Source Base64 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 3138938202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the format of the source image.</source>
+          <target state="translated">Hiermee wordt het formaat van de bronafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Source Format - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 4292099525 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the text representation of the format of the source image.</source>
+          <target state="translated">Hiermee wordt de tekstrepresentatie van het formaat van de bronafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Source Format Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 4233631958 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the height of the source image.</source>
+          <target state="translated">Hiermee wordt de hoogte van de bronafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Source Height - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 3147621061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the width of the source image.</source>
+          <target state="translated">Hiermee wordt de breedte van de bronafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Source Width - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 1946899426 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the Base64 version of the target image is available.</source>
+          <target state="translated">Hiermee wordt opgegeven of de Base64-versie van de doelafbeelding beschikbaar is.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Target Base64 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 1946899426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Base64 Available</source>
+          <target state="translated">Doel-Base64 beschikbaar</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Target Base64 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 2490515622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the format of the target image.</source>
+          <target state="translated">Hiermee wordt het formaat van de doelafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Target Format - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 1578807481 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the text representation of the format of the target image.</source>
+          <target state="translated">Hiermee wordt de tekstrepresentatie van het formaat van de doelafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Target Format Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 214254474 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the height of the target image.</source>
+          <target state="translated">Hiermee wordt de hoogte van de doelafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Target Height - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Control 189049161 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the width of the target image.</source>
+          <target state="translated">Hiermee wordt de breedte van de doelafbeelding opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Control Target Width - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 1002420131 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print the image library.</source>
+          <target state="translated">Druk de afbeeldingenbibliotheek af.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action Print - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target state="translated">Afdrukken</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 302820460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <target state="translated">Bron</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action SourceActions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 2331396733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deletes the current source image.</source>
+          <target state="translated">Verwijdert de huidige bronafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action DeleteSourceImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 2331396733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Source Image</source>
+          <target state="translated">Bronafbeelding verwijderen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action DeleteSourceImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 2210219019 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exports the base64 version of the source image .</source>
+          <target state="translated">Exporteert de base64-versie van de bronafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action ExportSourceImageBase64 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 2210219019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Source Base64</source>
+          <target state="translated">Bron-Base64 exporteren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action ExportSourceImageBase64 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 3142174166 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exports the current source image.</source>
+          <target state="translated">Exporteert de huidige bronafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action ExportSourceImageMedia - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 3142174166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Source Image</source>
+          <target state="translated">Bronafbeelding exporteren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action ExportSourceImageMedia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 1106155553 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Uploads an image as source image.</source>
+          <target state="translated">Uploadt een afbeelding als bronafbeelding</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action ImportSourceImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 1106155553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Source Image</source>
+          <target state="translated">Bronbestand importeren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action ImportSourceImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 1933659136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target</source>
+          <target state="translated">Doel</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action TargetActions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 475975953 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deletes the current target image.</source>
+          <target state="translated">Verwijdert de huidige doelafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action DeleteTargetImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 475975953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Target Image</source>
+          <target state="translated">Doelafbeelding verwijderen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action DeleteTargetImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 1284907278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exports the base64 version of the current target image .</source>
+          <target state="translated">Exporteert de base64-versie van de doelafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action ExportTargetBase64 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 1284907278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Target Base64</source>
+          <target state="translated">Doel-Base64 exporteren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action ExportTargetBase64 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 2507505382 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exports the current target image.</source>
+          <target state="translated">Exporteert de huidige doelafbeelding.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action ExportTargetImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168214428 - Action 2507505382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Target Image</source>
+          <target state="translated">Doelafbeelding exporteren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Image Library List CPTE - Action ExportTargetImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2075057668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Substitutions</source>
+          <target state="translated">Rapportvervangingen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Report Substitutions CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2075057668 - Control 269003312 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the caption of the new report.</source>
+          <target state="translated">Hiermee wordt de caption van het nieuwe rapport opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Report Substitutions CPTE - Control New Report Caption - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2075057668 - Control 2853618745 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value the new report id.</source>
+          <target state="translated">Hiermee wordt het id van het nieuwe rapport opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Report Substitutions CPTE - Control New Report ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2075057668 - Control 2512588867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the caption of the original report.</source>
+          <target state="translated">Hiermee wordt de caption van het originele rapport opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Report Substitutions CPTE - Control Original Report Caption - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2075057668 - Control 4087756550 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the original report id.</source>
+          <target state="translated">Hiermee wordt het id van het originele rapport opgegeven.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Report Substitutions CPTE - Control Original Report ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2075057668 - Action 2258795675 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Initializes the job quote report in report selections.</source>
+          <target state="translated">Hiermee wordt de projectofferte geïnitialiseerd in de rapportselecties.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Report Substitutions CPTE - Action InitJobQuoteReport - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2075057668 - Action 2258795675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Init Job Quote Report</source>
+          <target state="translated">Initialiseer rapport projectofferte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Report Substitutions CPTE - Action InitJobQuoteReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1853237406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image Library</source>
+          <target state="translated">Afbeeldingenbibliotheek</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Image Library CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3315064750 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coding Experiments</source>
+          <target state="translated">Code-experimenten</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet Coding Experim. CPTE - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
