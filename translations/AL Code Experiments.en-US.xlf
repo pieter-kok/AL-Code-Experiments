@@ -3,6 +3,42 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="AL Code Experiments">
     <body>
       <group id="body">
+        <trans-unit id="Table 1229724260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hierarchy Description</source>
+          <target state="translated">Hierarchy Description</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Hierarchy Descr. CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1229724260 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="translated">Code</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Hierarchy Descr. CPTE - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1229724260 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Description</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Hierarchy Descr. CPTE - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1229724260 - Field 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <target state="translated">Level</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Hierarchy Descr. CPTE - Field Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1229724260 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target state="translated">Line No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Hierarchy Descr. CPTE - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1229724260 - Field 3334115041 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Style</source>
+          <target state="translated">Style</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Hierarchy Descr. CPTE - Field Style - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1853237406 - Field 1690626450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Crop X</source>
           <target state="translated">Crop X</target>
@@ -176,6 +212,84 @@
           <target state="translated">Target</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Image Library Helper CPTE - NamedType TargetLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1229724260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hierarchy Descriptions</source>
+          <target state="translated">Hierarchy Descriptions</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1229724260 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a code.</source>
+          <target state="translated">Specifies a code.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. CPTE - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1229724260 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description.</source>
+          <target state="translated">Specifies a description.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. CPTE - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1229724260 - Control 1789400218 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the level for the hierarchy.</source>
+          <target state="translated">Specifies the level for the hierarchy.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. CPTE - Control Level - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1229724260 - Control 3334115041 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the style.</source>
+          <target state="translated">Specifies the style.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. CPTE - Control Style - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3115812946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hierarchy Description Tree</source>
+          <target state="translated">Hierarchy Description Tree</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. Tree CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3115812946 - Control 284195533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filters</source>
+          <target state="translated">Filters</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. Tree CPTE - Control Filters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3115812946 - Control 1763205539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a filter on description.</source>
+          <target state="translated">Specifies a filter on description.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. Tree CPTE - Control DescriptionFilterControl - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3115812946 - Control 1763205539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description Filter</source>
+          <target state="translated">Description Filter</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. Tree CPTE - Control DescriptionFilterControl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3115812946 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a code.</source>
+          <target state="translated">Specifies a code.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. Tree CPTE - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3115812946 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description.</source>
+          <target state="translated">Specifies a description.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. Tree CPTE - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3115812946 - Control 1789400218 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the level for the hierarchy.</source>
+          <target state="translated">Specifies the level for the hierarchy.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. Tree CPTE - Control Level - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3115812946 - Control 3334115041 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the style.</source>
+          <target state="translated">Specifies the style.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Hierarchy Descr. Tree CPTE - Control Style - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2834377578 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
           <source>New,Process,Report,Source,Functions,Target</source>
@@ -746,6 +860,78 @@
           <target state="translated">Image Library</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report Image Library CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hierarchy Style</source>
+          <target state="translated">Hierarchy Style</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 2792882736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ambiguous</source>
+          <target state="translated">Ambiguous</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue Ambiguous - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 1351826026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attention</source>
+          <target state="translated">Attention</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue Attention - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 821543844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AttentionAccent</source>
+          <target state="translated">AttentionAccent</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue AttentionAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 1842024162 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favorable</source>
+          <target state="translated">Favorable</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue Favorable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 3371220206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="translated">None</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue None - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 2672704373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard</source>
+          <target state="translated">Standard</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue Standard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 1674860615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StandardAccent</source>
+          <target state="translated">StandardAccent</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue StandardAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 891678869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Strong</source>
+          <target state="translated">Strong</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue Strong - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 1391056551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StrongAccent</source>
+          <target state="translated">StrongAccent</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue StrongAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 2463722134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subordinate</source>
+          <target state="translated">Subordinate</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue Subordinate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4231272342 - EnumValue 2997326431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unfavorable</source>
+          <target state="translated">Unfavorable</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Hierarchy Style CPTE - EnumValue Unfavorable - Property Caption</note>
         </trans-unit>
         <trans-unit id="PermissionSet 3315064750 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Coding Experiments</source>
