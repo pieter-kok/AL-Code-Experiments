@@ -861,6 +861,12 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report Image Library CPTE - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4193986007 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Sales Line List</source>
+          <target state="translated">Verkoopregellijst</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order List PTE - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Enum 4231272342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Hierarchy Style</source>
           <target state="translated">Hiërarchiestijl</target>
